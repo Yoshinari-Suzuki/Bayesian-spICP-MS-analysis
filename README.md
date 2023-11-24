@@ -9,3 +9,4 @@ I, my affiliates, and any organizations to which I belong are not responsible fo
 
 ## Change log
 * 2023-03-23 README file was created.
+* 2023-11-24 README file was updated.
